@@ -1,0 +1,89 @@
+Trainer:
+    - Add Team:                                 ✓
+        - Attacking                             ✓
+        - Gain Exp                              ✓
+        - Gain EVs                              ✓
+        - Level UP                              ✓
+        - Learn moves                           ✓
+        - Evolve                                ✓
+        - Catch pokemon                         ✓
+
+    - PC :
+        - Add 14 pages                          ✓
+        - Add to team
+        - Send to PC                            ✓
+        - Release
+
+    - Pokemon Summary:
+        - Display summary
+        - Name                                  ✓
+        - Level                                 ✓
+        - Level found
+        - If shiny                              ✓
+        - Move set                              ✓
+        - Nature
+
+Pokedex :
+    - Add 151 Pokemon datas:
+        - Add ID                                ✓
+        - Add name                              ✓
+        - Add Base Stats                        ✓
+        - Add Effort value                      ✓
+        - Add Learn Set                         ✓
+        - Add nature
+        - Normals Sprites                       ✓
+        - Shinies Sprites                       ✓
+        - Icons Sprites                         ✓
+
+    - Add Pokemon types:                        ✓
+         - Effectiveness                        ✓
+
+    - Add Pokemon Evolve situation:
+         - By Leveling UP                       ✓
+         - By Stone
+
+    - Add Exp family:                           ✓
+         - Exp family formula                   ✓
+
+    - Add Gender percent                        ✓
+
+    - Add Pokemon moves:
+        - Type move                             ✓
+        - Category move                         ✓
+        - Description move
+        - Attack                                ✓
+        - Precision                             ✓
+        - PP                                    ✓
+
+Location:                                       ✓
+    - Each Location                             ✓
+    - Pokemon spawn:                            ✓
+        - pokemon ID                            ✓
+        - Level he can spawn at                 ✓
+        - Spawn rate                            ✓
+
+Game Play:
+    - Save Files                                ✓
+    - Change Location
+    - Fight Pokemon                             ✓
+    - Story
+        - Main Quests
+        - Side Quests
+        - Legendary Quests
+        - Rival
+        - Lore
+
+    - Cities:
+        - Poke-center
+        - PokeMarket
+        - Gym Leader
+
+    - Easter Egg (maybe)
+
+
+Currently Started :
+    - PC System:
+        - Add to team
+        - Create window for summary
+    - Game Play:
+        - Story

@@ -1,0 +1,40 @@
+Story:
+    - Main Quests:
+        - "Introduction":
+            - Choose starter
+            - First Rivals Fight
+            - Package to Professor Oak
+            - New Quest: "Gotta catch them all!"
+        - "Gotta catch them all!":
+            - Complete the pokedex
+
+    - Side Quests:
+        - "Route 01":
+            Beat 1 Pidgey, 1 Rattata
+        - "Route 03":
+            Beat 3 Spearow
+        - "Route 05":
+            Beat 2 Oddish, 1 Meowth
+        - "Route 07":
+            Beat 2 Meowth, 1 Growlithe
+        - "Route 09":
+            Beat 3 Pidgey, 2 Spearow
+        - "Route 11":
+            Beat 1 Drowzee
+        - "Route 13":
+            Beat 2 Oddish, 1 Venonat
+        - "Route 15":
+            Beat 1 Ditto
+        - "Route 17":
+            Beat 2 Doduo, 1 Spearow
+        - "Route 19":
+            ???
+        - "Route 21":
+            ???
+        - "Route 23":
+            Beat 1 Ditto
+        - "Route 25":
+            Beat 2 Oddish
+
+    - Legendary Quests
+    - Lore
